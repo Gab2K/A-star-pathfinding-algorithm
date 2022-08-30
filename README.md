@@ -21,9 +21,7 @@ S = Diagonal
 Map can be changed in main.cpp on line 69
 
 ## How to run
-To launch run PathFinderCpp.sln in Visual Studio
-
+To launch run PathFinderCpp.sln in Visual Studio\
 Change debug from x64 to x86
-
 ![image](https://user-images.githubusercontent.com/60928508/187550348-d74ba5d5-8bf4-4e77-9441-8efb60e41a4b.png)
 
