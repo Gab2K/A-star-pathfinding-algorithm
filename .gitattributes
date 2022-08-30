@@ -61,5 +61,6 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
-#*.C linguist-detectable=false
+* linguist-vendored
+*.c linguist-vendored=false
 
