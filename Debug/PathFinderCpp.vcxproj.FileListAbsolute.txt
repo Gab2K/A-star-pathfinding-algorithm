@@ -1,0 +1,2 @@
+C:\Users\Gabriel\Desktop\Artificial Intelligence - Path Finding\Pathfinding algorithm A STAR\Debug\PathFinderCpp.exe
+C:\Users\Gabriel\Desktop\Pathfinding algorithm A STAR\Debug\PathFinderCpp.exe
