@@ -12,7 +12,7 @@ How to use
 Press p, r or s to create a path that the bot will follow to catch the player. The following keys represent the specific heuristic methods:\
 P = Manhattan\
 R = Euclidean\
-S = Diagonal\
+S = Diagonal
 
 Map can be changed in main.cpp on line 69
 
